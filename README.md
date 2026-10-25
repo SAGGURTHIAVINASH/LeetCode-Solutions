@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SAGGURTHIAVINASH/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/SAGGURTHIAVINASH/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SAGGURTHIAVINASH/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SAGGURTHIAVINASH/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SAGGURTHIAVINASH/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Array
 |  |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SAGGURTHIAVINASH/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SAGGURTHIAVINASH/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SAGGURTHIAVINASH/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
